@@ -1,0 +1,11 @@
+Package: BacSyst
+Type: Shiny
+Title: BacSyst
+Version: 1.0.0
+Author: Morni M. A.
+Maintainer: mmamsyari@unimas.my
+Description: BacSyst is program to help researchers using ONT to get the complete bacteria taxonomy from species list (BETA version)
+License: MIT License
+Encoding: UTF-8
+Imports:
+  shiny (>= 1.5.0)
